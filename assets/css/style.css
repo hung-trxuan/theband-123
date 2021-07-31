@@ -169,7 +169,7 @@ html {
 }
 /* SLIDER */
 #slider {
-    background: url('/assets/PIC/ny.jpg') top center / cover no-repeat;
+    background: url('../PIC/ny.jpg') top center / cover no-repeat;
     /* viết gộp:
     url:background-image;
     background-posstion: top center;
